@@ -13,14 +13,14 @@
 declare(strict_types=1);
 
 return ['Contact' => [
-    'Address'   => 'Dirección',
-    'Addresses' => 'direcciones',
+    'Address'   => 'Habla a',
+    'Addresses' => 'Direcciones',
     'City'      => 'Ciudad',
     'Contact'   => 'Contacto',
-    'Contacts'  => 'contactos',
+    'Contacts'  => 'Contactos',
     'Country'   => 'País',
     'Email'     => 'Correo electrónico',
-    'FAO'       => 'FAO',
+    'FAO'       => 'Fao',
     'Fax'       => 'Fax',
     'Name'      => 'Nombre',
     'Office'    => 'Oficina',

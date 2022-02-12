@@ -14,19 +14,19 @@ declare(strict_types=1);
 
 return ['Contact' => [
     'Address'   => 'Adresa',
-    'Addresses' => 'adresy',
+    'Addresses' => 'Adresy',
     'City'      => 'Město',
     'Contact'   => 'Kontakt',
     'Contacts'  => 'Kontakty',
     'Country'   => 'Země',
     'Email'     => 'E-mailem',
-    'FAO'       => 'FAO',
+    'FAO'       => 'Fao.',
     'Fax'       => 'Fax',
     'Name'      => 'název',
     'Office'    => 'Kancelář',
     'Phone'     => 'Telefon',
-    'Private'   => 'soukromý',
+    'Private'   => 'Soukromý',
     'Province'  => 'Provincie',
     'State'     => 'Stát',
-    'Zip'       => 'zip',
+    'Zip'       => 'Zip',
 ]];

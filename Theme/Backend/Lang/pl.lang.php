@@ -14,19 +14,19 @@ declare(strict_types=1);
 
 return ['Contact' => [
     'Address'   => 'Adres',
-    'Addresses' => 'adresy',
+    'Addresses' => 'Adresy',
     'City'      => 'Miasto',
     'Contact'   => 'Kontakt',
     'Contacts'  => 'Łączność',
     'Country'   => 'Kraj',
     'Email'     => 'E-mail',
-    'FAO'       => 'FAO',
+    'FAO'       => 'Fao.',
     'Fax'       => 'Faks',
     'Name'      => 'Nazwa',
     'Office'    => 'Gabinet',
     'Phone'     => 'Telefon',
     'Private'   => 'Prywatny',
     'Province'  => 'Województwo',
-    'State'     => 'Stan',
+    'State'     => 'Państwo',
     'Zip'       => 'Zamek błyskawiczny',
 ]];
