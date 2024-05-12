@@ -28,5 +28,5 @@ return ['Contact' => [
     'Private'   => '民間',
     'Province'  => '州',
     'State'     => '州',
-    'Zip'       => 'ジップ',
+    'Postal'       => 'ジップ',
 ]];

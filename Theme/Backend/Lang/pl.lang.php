@@ -28,5 +28,5 @@ return ['Contact' => [
     'Private'   => 'Prywatny',
     'Province'  => 'Województwo',
     'State'     => 'Państwo',
-    'Zip'       => 'Zamek błyskawiczny',
+    'Postal'       => 'Zamek błyskawiczny',
 ]];

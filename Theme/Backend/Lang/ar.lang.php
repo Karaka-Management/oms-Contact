@@ -28,5 +28,5 @@ return ['Contact' => [
     'Private'   => 'نشر',
     'Province'  => 'المحافظة',
     'State'     => 'ولاية',
-    'Zip'       => 'أزيز',
+    'Postal'       => 'أزيز',
 ]];

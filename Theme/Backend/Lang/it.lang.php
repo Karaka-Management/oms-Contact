@@ -28,5 +28,5 @@ return ['Contact' => [
     'Private'   => 'Privato',
     'Province'  => 'Provincia',
     'State'     => 'Stato',
-    'Zip'       => 'Cerniera lampo',
+    'Postal'       => 'Cerniera lampo',
 ]];

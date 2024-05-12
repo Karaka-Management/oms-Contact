@@ -28,5 +28,5 @@ return ['Contact' => [
     'Private'   => 'Privatgelände',
     'Province'  => 'Provinz',
     'State'     => 'Zustand',
-    'Zip'       => 'Reißverschluss',
+    'Postal'       => 'Reißverschluss',
 ]];

@@ -28,5 +28,5 @@ return ['Contact' => [
     'Private'   => 'Yksityinen',
     'Province'  => 'Maakunta',
     'State'     => 'Osavaltio',
-    'Zip'       => 'Postinumero',
+    'Postal'       => 'Postinumero',
 ]];

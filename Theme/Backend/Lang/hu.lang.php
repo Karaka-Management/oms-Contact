@@ -28,5 +28,5 @@ return ['Contact' => [
     'Private'   => 'Magán',
     'Province'  => 'Tartomány',
     'State'     => 'Állapot',
-    'Zip'       => 'Postai irányítószám',
+    'Postal'       => 'Postai irányítószám',
 ]];
