@@ -28,5 +28,5 @@ return ['Contact' => [
     'Private'   => '사적인',
     'Province'  => '주',
     'State'     => '상태',
-    'Postal'       => '지퍼',
+    'Postal'    => '지퍼',
 ]];

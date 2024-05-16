@@ -28,5 +28,5 @@ return ['Contact' => [
     'Private'   => 'Ιδιωτικός',
     'Province'  => 'Επαρχία',
     'State'     => 'κατάσταση',
-    'Postal'       => 'Φερμουάρ',
+    'Postal'    => 'Φερμουάρ',
 ]];

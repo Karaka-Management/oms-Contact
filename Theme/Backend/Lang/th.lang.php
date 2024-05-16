@@ -28,5 +28,5 @@ return ['Contact' => [
     'Private'   => 'ส่วนตัว',
     'Province'  => 'จังหวัด',
     'State'     => 'สถานะ',
-    'Postal'       => 'ซิป',
+    'Postal'    => 'ซิป',
 ]];

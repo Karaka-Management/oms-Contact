@@ -28,5 +28,5 @@ return ['Contact' => [
     'Private'   => 'Privado',
     'Province'  => 'Província',
     'State'     => 'Estado',
-    'Postal'       => 'Fecho eclair',
+    'Postal'    => 'Fecho eclair',
 ]];

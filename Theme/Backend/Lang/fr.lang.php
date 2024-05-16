@@ -28,5 +28,5 @@ return ['Contact' => [
     'Private'   => 'Privé',
     'Province'  => 'Province',
     'State'     => 'État',
-    'Postal'       => 'Zipper',
+    'Postal'    => 'Zipper',
 ]];

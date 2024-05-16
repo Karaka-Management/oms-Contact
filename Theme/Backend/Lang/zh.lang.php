@@ -28,5 +28,5 @@ return ['Contact' => [
     'Private'   => '私人的',
     'Province'  => '省',
     'State'     => '状态',
-    'Postal'       => '压缩',
+    'Postal'    => '压缩',
 ]];
